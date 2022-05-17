@@ -4,3 +4,6 @@ function doSomething() {
 function functionFromNewBranch() {
   console.log("Hello World from new branch");
 }
+function otherFunction() {
+  console.log("Hello World from Other Function");
+}
